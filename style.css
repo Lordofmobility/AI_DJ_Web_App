@@ -1,16 +1,18 @@
 .heading {
     font-size: 23px;
-    margin: 0px;
     width: 100%;
+    margin: 0px;
 }
 
 .note {
     font-size: 15px;
     color: black;
 }
- body {
-     background-size: cover;
+
+body {
+    background-size: cover;
 }
+
 .div_speed {
     float: left;
 }
@@ -41,12 +43,10 @@
 
 .play_button {
     width: 130px;
-    font-size: 20px;
-    
+    font-size: 25px;
 }
 
 canvas {
-    box-shadow: 5px 5px 5px grey;
-    border-radius: 20px;
     border: 5px solid white;
+    border-radius: 20px;
 }
